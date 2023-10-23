@@ -1,7 +1,6 @@
 # Blog with Gridsome
 
-_Fully customizable blog template with a Vue.js front-end._
-
+**_Fully customizable blog template with a Vue.js front-end._**
 Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gridsome-blog).
 
 ## What you have
